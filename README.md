@@ -9,7 +9,8 @@ Video link:
 In class programming:
 1.Add one more hidden layer to autoencoder In this code first we have executed the code which was given then we have added some hidden layers in encode(the encoded representation of the input) and in decode(the lossy reconstruction of the input) and this model plots an input to its reconstruction and also the encoder for its encoded representation and then compiling the model and loading the MNIST dataset after that normalize and flatten the data then train the autoencoder.
 
-![Screenshot 2024-10-10 180304](https://github.com/user-attachments/assets/af7aa022-8880-4a0c-ab28-4ddeec1a8762)
+![Screenshot 2024-10-10 162331](https://github.com/user-attachments/assets/51f052c2-4f11-4414-948e-48c97d59b16b)
+
 
 2.Do the prediction on the test data and then visualize one of the reconstructed version of that test data. Also, visualize the same test data before reconstruction using Matplotlib
 for this we are using the matplotlib lib and then getting the reconstructed images for the test set. And choose a random image from the test set based on the index of the image to be plotted then plotting the orginal image as well as plotting the reconstructed image by using an
