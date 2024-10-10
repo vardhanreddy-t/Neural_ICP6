@@ -4,7 +4,7 @@
 
 NAME: PRIYA VARDHAN REDDY TAMMA ID#: 700764913
 
-Video link:
+Video link: https://drive.google.com/file/d/1lzdePnD0yUqS7B2UBfpakh39Q-PGF3Lp/view?usp=sharing
 
 In class programming:
 1.Add one more hidden layer to autoencoder In this code first we have executed the code which was given then we have added some hidden layers in encode(the encoded representation of the input) and in decode(the lossy reconstruction of the input) and this model plots an input to its reconstruction and also the encoder for its encoded representation and then compiling the model and loading the MNIST dataset after that normalize and flatten the data then train the autoencoder.
